@@ -10,8 +10,6 @@
 	rel="stylesheet" type="text/css" />
 <link href="<c:url value="/resources/jquery/jquery-1.10.1.min.js" />"
 	type="text/javascript" />
-<!-- <script type="text/javascript"
-	src="/resources/jquery/jquery-1.10.1.min.js"></script> -->
 </head>
 <body>
 	<h1>Hello world!</h1>
